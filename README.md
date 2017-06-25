@@ -9,7 +9,7 @@ A super fantastic demo shop making use of the incredible powers provided by:
 - [reflux](https://www.npmjs.com/package/reflux)
 - [react router](https://github.com/rackt/react-router)
 
-**<a href="https://stylecoder.github.io/react-reflux-super-fantastic-shop-demo" target="_blank">demo page</a>**
+**<a href="http://marinda-s.github.io/react-reflux-super-fantastic-shop-demo/" target="_blank">demo page</a>**
 
 **Built with:**
   - npm and gulp  development/watch/livereload and production tasks
